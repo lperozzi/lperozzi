@@ -21,6 +21,7 @@ I'm a Lorenzo Perozzi, data geoscientist from Switzerland!!
 
 <!-- BLOG-POST-LIST:START -->
 - [A journey into Plotly Dash](https://medium.com/@lorenzoperozzi/a-journey-into-plotly-dash-5791228212ff?source=rss-406aa32ffdee------2)
+- [Visual exploratory analysis with pydeck](https://medium.com/@lorenzoperozzi/visual-exploratory-analysis-with-pydeck-19423f679aa4?source=rss-406aa32ffdee------2)
 <!-- BLOG-POST-LIST:END -->
 
 
