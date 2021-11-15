@@ -25,21 +25,22 @@ I like to share what I'm learning on my personal [blog](https://www.geomaap.io/)
 - [Visual exploratory analysis with pydeck](https://medium.com/@lorenzoperozzi/visual-exploratory-analysis-with-pydeck-19423f679aa4?source=rss-406aa32ffdee------2)
 <!-- BLOG-POST-LIST:END -->
 
-</br>
-</br>
+<br />
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=lperozzi)](https://github.com/lperozzi/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lperozzi&layout=compact)](https://github.com/lperozzi/github-readme-stats)
+### Github activity
+
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=lperozzi&hide_title=true)](https://github.com/lperozzi/github-readme-stats)
+
+<br />
+
+### Most used languages
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lperozzi&layout=compact&hide_title=true)](https://github.com/lperozzi/github-readme-stats)
 
 
 
 [website]: https://www.geomaap.io/
-[course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/lor3nzop3rozzi
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
 [linkedin]: https://www.linkedin.com/in/lperozzi/
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
