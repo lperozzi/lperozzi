@@ -16,8 +16,6 @@ I like to share what I'm learning on my personal [blog](https://www.geomaap.io/)
 
 <br />
 
-
-
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
@@ -25,14 +23,13 @@ I like to share what I'm learning on my personal [blog](https://www.geomaap.io/)
 - [Visual exploratory analysis with pydeck](https://medium.com/@lorenzoperozzi/visual-exploratory-analysis-with-pydeck-19423f679aa4?source=rss-406aa32ffdee------2)
 <!-- BLOG-POST-LIST:END -->
 
-<br />
 
 ### Github activity
 
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=lperozzi&hide_title=true)](https://github.com/lperozzi/github-readme-stats)
 
-<br />
+
 
 ### Most used languages
 
