@@ -20,6 +20,7 @@ I'm a Lorenzo Perozzi, data geoscientist from Switzerland!!
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A journey into Plotly Dash](https://medium.com/@lorenzoperozzi/a-journey-into-plotly-dash-5791228212ff?source=rss-406aa32ffdee------2)
 <!-- BLOG-POST-LIST:END -->
 
 
