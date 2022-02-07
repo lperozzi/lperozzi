@@ -1,6 +1,6 @@
 ### Ciao, 👋 
 
-I'm a Lorenzo Perozzi, geodata scientist from Switzerland! I'm passionate about:
+I'm a Lorenzo Perozzi, data scientist from Switzerland! I'm passionate about:
 
 - Open source developments for geoscience;
 - Geodata visualization and modeling;
