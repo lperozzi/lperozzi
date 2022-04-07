@@ -19,6 +19,7 @@ I like to share what I'm learning on my personal [blog](https://www.geomaap.io/)
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Exploring spatial interpolation](https://medium.com/@lorenzoperozzi/exploring-spatial-interpolation-f41e86d37a05?source=rss-406aa32ffdee------2)
 - [A journey into Plotly Dash](https://medium.com/@lorenzoperozzi/a-journey-into-plotly-dash-5791228212ff?source=rss-406aa32ffdee------2)
 - [Visual exploratory analysis with pydeck](https://medium.com/@lorenzoperozzi/visual-exploratory-analysis-with-pydeck-19423f679aa4?source=rss-406aa32ffdee------2)
 <!-- BLOG-POST-LIST:END -->
