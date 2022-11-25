@@ -4,7 +4,8 @@ I'm a Lorenzo Perozzi, data scientist from Switzerland! I'm passionate about:
 
 - Open source developments for geoscience;
 - Geodata visualization and modeling;
-- Innovation applied to geodata analytics (i.e. machine learning and geostatistics).
+- Innovation applied to geodata analytics (i.e. machine learning and geostatistics);
+- Beer and bicycle.
 
 I like to share what I'm learning on my personal [blog](https://www.geomaap.io/)
 
